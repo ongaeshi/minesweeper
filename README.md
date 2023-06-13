@@ -1,6 +1,8 @@
 # Minesweeper
 
-Ported https://github.com/nicolas-maitre/gosu_minesweeper to runa.
+Ported https://github.com/nicolas-maitre/gosu_minesweeper to [runa](https://github.com/ongaeshi/runa).
+
+<a href="https://gyazo.com/16267ade3e92f44d6d24a47c0e1be464"><img src="https://i.gyazo.com/16267ade3e92f44d6d24a47c0e1be464.png" alt="Image from Gyazo" width="453"/></a>
 
 ## Install
 
